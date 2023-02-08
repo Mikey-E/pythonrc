@@ -1,4 +1,4 @@
-For python 3.11.1
+Made with python 3.11.1
 
 pythonrc.py runs in the interpreter on every startup.
 
